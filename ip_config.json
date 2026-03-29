@@ -1,0 +1,72 @@
+{
+  "vps_list": [
+    {
+      "vps_ip": "143.198.93.149",
+      "whatismyip": "143.198.93.149",
+      "notes": "VPS",
+      "active": true,
+      "added_by": "Telegram: 7624981442",
+      "added_date": "2026-02-09 13:12:05"
+    },
+    {
+      "vps_ip": "137.184.35.172",
+      "whatismyip": "137.184.35.172143.198.93.149",
+      "notes": "SAI",
+      "active": true,
+      "added_by": "Telegram: 7624981442",
+      "added_date": "2026-02-09 15:06:33"
+    },
+    {
+      "vps_ip": "45.76.189.120",
+      "whatismyip": "103.129.235.1",
+      "notes": "sai",
+      "active": true,
+      "added_by": "Telegram: 7624981442",
+      "added_date": "2026-02-10 14:40:32"
+    },
+    {
+      "vps_ip": "157.230.44.122",
+      "whatismyip": "157.230.44.122",
+      "notes": "EVT-SSH",
+      "active": true,
+      "added_by": "Telegram: 7624981442",
+      "added_date": "2026-02-11 14:39:06"
+    },
+    {
+      "vps_ip": "35.198.198.92",
+      "whatismyip": "35.198.198.92",
+      "notes": "gcp",
+      "active": true,
+      "added_by": "Telegram: 7624981442",
+      "added_date": "2026-03-21 17:42:56"
+    },
+    {
+      "vps_ip": "27.125.250.185",
+      "whatismyip": "27.125.250.185",
+      "notes": "gp",
+      "active": true,
+      "added_by": "Telegram: 7624981442",
+      "added_date": "2026-03-21 17:42:56"
+    },
+    {
+  "vps_list": [
+    {
+      "vps_ip": "45.76.189.120",
+      "whatismyip": "103.129.235.55",
+      "notes": "Main Server",
+      "active": true,
+      "added_by": "Admin",
+      "added_date": "2024-01-01 10:00:00"
+    },
+    {
+      "vps_ip": "27.125.250.11",
+      "whatismyip": "27.125.250.11",
+      "notes": "User IP - Phone",
+      "active": true,
+      "added_by": "Admin",
+      "added_date": "2024-01-15 14:30:00"
+    }
+  ]
+    }
+  ]
+}
